@@ -24,7 +24,7 @@ func main() {
 		}
 
 		fmt.Println(out.String())
-		time.Sleep(8 * time.Second)
+		time.Sleep(10 * time.Second)
 	}
 
 }
